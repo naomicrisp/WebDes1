@@ -1,1 +1,35 @@
-/* Copy and paste your CSS from CodePen into here */
+body {
+  background-color: #efFfFf;
+}
+#main {
+  color:#599;
+  font-family: "Playfair Display"; font-size: 18px
+}
+
+#title {
+  color: #369;
+  text-align: center;
+  font-size: 40pt;
+}
+
+#img-div {
+  background-color: #FFFFFF
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  text-align: center;
+  border: 12px; 
+  border-color: FFFFFF;
+}
+
+#img-caption{
+  text-align: center
+}
+
+#tribute-info {
+  font-size: 20pt;
+  color: 369;
+}
